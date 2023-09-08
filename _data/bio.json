@@ -1,12 +1,56 @@
 {
   "basics": {
     "name": "Justin Wang",
-    "label": "Student",
+    "label": "Shidler Undergraduate",
     "picture": "https://github.com/JustinWang.png",
     "email": "jpwang@hawaii.edu",
-    "phone": "5109356300",
+    "phone": "510-935-6300",
     "website": "https://jpwang.github.io",
-    "summary": "I am studying for Marketing and Management Information Sysems at the University of Hawaii. I expect to graduate in Spring, 2025.",
+    "summary": "I am studying for a B.S. in Marketing and Management Information Systems at the Shidler College of Business at the University of Hawaii. I expect to graduate in Spring, 2025.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "jpwang12", "url": "http://github.com/jpwang12" },
+      { "network": "linkedin", "username": "Justin Wang", "url": "http://linkedin.com/in/Justin Wang-" },
+      { "network": "instagram", "username": "jpwang12", "url": "http://instagram.com/jpwang12" }
+    ]
   },
+  "interests": [
+    { "name": "Gaming" },
+    { "name": "Exercise" },
+    { "name": "Computer Engineering" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": ["Javascript", "Html", "Python" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Marketing, Management Information Systems (expected Spring, 2025)",
+      "studyType": "B.S.",
+      "startDate": "2021-08-01",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "UH Manoa Intramural Sports",
+      "position": "Official",
+      "website": "",
+      "startDate": "2023-04-01",
+      "endDate": "Present",
+      "summary": "Officiate differnt intramural sports",
+      "highlights": [
+        "Officiate 3 basketball games in one night"
+      ]
+    },
+  ],
 }
