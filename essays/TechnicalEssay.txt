@@ -1,0 +1,3 @@
+At first, starting the wods was a mess because there was so many things to do and I didn't really know where to start. But as I broke down what to do step by step, it made it easier to plan out what I was gonna do for my wod.
+You can see in my videos that I prgressivley improve in my decision making and what to input into the index or css files. Even the time for my videos went down from 15min in wod 3.1 to 8 min in 3.3. Overall I really enjoyed 
+the planning process and learning what to input into the html files to create the webpage.
