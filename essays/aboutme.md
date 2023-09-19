@@ -1,14 +1,14 @@
 ---
 layout: essay
 type: essay
-title: "Why I chose to take ITM352"
+title: "Why I Chose to Major in MIS"
 # All dates must be YYYY-MM-DD format!
-date: 2015-08-26
+date: 2023-08-26
 published: true
 labels:
-  - Junior at the University of Hawaii at Manoa
-  - Marketing and Management Information Systems Major
+  - About Me
 ---
+
 
 <img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
 
